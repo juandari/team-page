@@ -1,1 +1,1 @@
-# Team Page Responsive Page
+# Team Page Responsive Web
